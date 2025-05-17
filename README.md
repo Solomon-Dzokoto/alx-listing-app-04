@@ -9,4 +9,3 @@ This project is part of the **ALX Software Engineering Frontend Specialization**
 ---
 
 ## 🧱 Project Structure
-
