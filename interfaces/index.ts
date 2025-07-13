@@ -1,3 +1,5 @@
 interface CardProps {}
 
-interface ButtonProps {}
+interface ButtonProps {
+    click?:string
+}
